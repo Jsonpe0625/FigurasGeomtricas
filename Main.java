@@ -25,7 +25,7 @@ class Main {
       System.out.print("Area del Rectagulo es: "
       +rectangulo.getArea());
       System.out.print("Area del Perimetro es: "
-      +Perimetro.getPerimetro());
+      +rectangulo.getPerimetro());
     }else if (opcion.equals("1")){
       System.out.print("Escojio Triagulo");
     }else if (opcion.equals("1")){

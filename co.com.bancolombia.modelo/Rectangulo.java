@@ -12,9 +12,9 @@ public class Rectangulo extends Figuras{
 public int getBase(){
   return base;
 }
-public int setBase(int base){
- this.base=basse;
-}
+public void setBase(int base){
+ this.base=base;
+ }
 public int getArea(){
   return base*altura;
 }
